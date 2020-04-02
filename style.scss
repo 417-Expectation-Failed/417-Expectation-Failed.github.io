@@ -31,7 +31,11 @@ body {
   width: 100%;
 }
 
-code, .highlight {
+code {
+  background-color: $codeGray;
+}
+
+.highlight {
   background-color: $codeGray;
 }
 
