@@ -31,12 +31,8 @@ body {
   width: 100%;
 }
 
-code {
-  background-color: $codeGray;
-}
-
-.highlight {
-  background-color: $codeGray;
+code, .highlight {
+  background-color: $codeGray !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
