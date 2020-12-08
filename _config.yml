@@ -1,9 +1,10 @@
 #
 # This file contains configuration flags to customize your site
 #
+title: 417 Expectation Failed
 
 # Name of your site (displayed in the header)
-name: 417 Expectation Failed
+name: Expectation Failed
 
 # Short bio or description (displayed in the header)
 description: ''
